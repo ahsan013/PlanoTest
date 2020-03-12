@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\GitHubTestingRep\\PlanoTestRep\\PlanoTest\\PlanoTestSol\\PlanoTestSol\\PlanoTestSol.csproj": {}
+    "/Users/cassandrabibal/Documents/Plano/PlanoTest/PlanoTestSol/PlanoTestSol/PlanoTestSol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\GitHubTestingRep\\PlanoTestRep\\PlanoTest\\PlanoTestSol\\PlanoTestSol\\PlanoTestSol.csproj": {
+    "/Users/cassandrabibal/Documents/Plano/PlanoTest/PlanoTestSol/PlanoTestSol/PlanoTestSol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\GitHubTestingRep\\PlanoTestRep\\PlanoTest\\PlanoTestSol\\PlanoTestSol\\PlanoTestSol.csproj",
+        "projectUniqueName": "/Users/cassandrabibal/Documents/Plano/PlanoTest/PlanoTestSol/PlanoTestSol/PlanoTestSol.csproj",
         "projectName": "PlanoTestSol",
-        "projectPath": "C:\\Users\\HP\\Desktop\\GitHubTestingRep\\PlanoTestRep\\PlanoTest\\PlanoTestSol\\PlanoTestSol\\PlanoTestSol.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\GitHubTestingRep\\PlanoTestRep\\PlanoTest\\PlanoTestSol\\PlanoTestSol\\obj\\",
+        "projectPath": "/Users/cassandrabibal/Documents/Plano/PlanoTest/PlanoTestSol/PlanoTestSol/PlanoTestSol.csproj",
+        "packagesPath": "/Users/cassandrabibal/.nuget/packages/",
+        "outputPath": "/Users/cassandrabibal/Documents/Plano/PlanoTest/PlanoTestSol/PlanoTestSol/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/cassandrabibal/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview3-014645\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     }
